@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@iconify-json/simple-icons": "^1.1.89",
-    "@libsql/client": "^0.3.6",
+    "@libsql/client": "^0.14.0",
     "@nuxt/ui": "^2.12.3",
     "better-sqlite3": "^9.3.0",
     "bufferutil": "^4.0.8",
