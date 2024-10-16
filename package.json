@@ -14,7 +14,7 @@
     "@nuxt/ui": "^2.12.3",
     "better-sqlite3": "^9.3.0",
     "bufferutil": "^4.0.8",
-    "drizzle-kit": "^0.20.13",
+    "drizzle-kit": "^0.26.0",
     "drizzle-orm": "^0.29.3",
     "h3-zod": "^0.5.3",
     "nuxt": "^3.9.3",
